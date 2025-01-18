@@ -34,6 +34,7 @@ Bitly is a widely recognized and trusted URL shortener that provides tools for b
 - **Analytics**: Track clicks, geolocation, and device types.
 - **Team Collaboration**: Manage links collaboratively with team features.
 - **Link Management**: Easily organize and manage links.
+- **Link-in-Bio Pages**: Consolidate multiple links into a single customizable landing page for social media.
 - **API Access**: Supports API for link and analytics management.
 
 ---
